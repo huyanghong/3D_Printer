@@ -28,5 +28,6 @@
         "list": "cpp",
         "regex": "cpp"
     },
-    "C_Cpp.errorSquiggles": "Disabled"
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cmake.sourceDirectory": "${workspaceFolder}/.pio/libdeps/mks_tinybee/AsyncTCP"
 }
